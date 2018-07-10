@@ -1,8 +1,6 @@
 h1{
     color: #ffffff;
     text-align: center;
-    justify-content: center;
-    align-items: center;
 }
 body{
     background-color: #ffffff;
@@ -13,7 +11,7 @@ p{
 
 ul{
     list-style-type: none;
-    margin: 0;
+    margin-left: 1000px;
     padding-top: 25px;
     padding-bottom: 25px;
     color: white;
@@ -23,14 +21,14 @@ ul{
 li{
     display: inline;
     float: left;
-    font-size: 35px;
+    font-size: 25px;
     font-family:sans-serif;
     
     
 }
 li a{
     background-color:none;
-    color: white;
+    color: #999a9b;
     padding: 10px 15px;
     text-align: center;
     text-decoration: none;

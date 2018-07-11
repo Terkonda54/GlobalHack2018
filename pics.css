@@ -26,3 +26,22 @@ li a{
 li a:hover{
     background-color:#111;
 }
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+.text1{
+    border: 3px solid white;
+    margin-left:775px;
+    width: 500px;
+    height: 254px;
+    margin-top:39px;
+    padding: 20px;
+    background-color: #4d4f51;
+}
+img{
+    margin-left: 250px;
+}

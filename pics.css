@@ -1,17 +1,3 @@
-body{
-    background-color: #ffffff
-
-}
-h1{
-    color: #ffffff;
-    text-align: center;
-}
-p{
-    color: white;
-}
-h6{
-    color: black;
-}
 ul{
     list-style-type: none;
     margin-left: 1000px;
@@ -39,14 +25,4 @@ li a{
 }
 li a:hover{
     background-color:#111;
-}
-p{
-    text-align: center;
-}
-.about{
-    margin-left: 200px;
-    margin-right: 200px;
-    padding: 20px;
-    color: white;
-    border: 3px double white;
 }

@@ -41,15 +41,26 @@ li a:hover{
     background-color:#111;
 }
 p{
-    text-align: center;
 }
 .about{
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 450px;
+    margin-right: 300px;
     padding: 20px;
     color: white;
-    border: 3px double white;
+    width: 500px;
 }
 .img2{
     margin-left: 75px;
+}
+.name{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 300px;
+    border:2px double white;
+    max-width: 275px;
+}
+.intro{
+    max-width: 1000px;
+    text-align: left;
+    margin-left: 300px;
 }

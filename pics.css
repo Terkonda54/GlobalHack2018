@@ -132,3 +132,12 @@ h2{
     color: white;
 
 }
+.dogs {
+  display: flex;
+  
+}
+
+.dogs>div {
+  padding: 5px;
+  justify-content: center;
+}

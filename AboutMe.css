@@ -1,6 +1,5 @@
 body{
-    background-color: #ffffff
-
+    background-color: #ffffff;
 }
 h1{
     color: #ffffff;
@@ -60,6 +59,11 @@ p{
     max-width: 275px;
 }
 .intro{
+    max-width: 1000px;
+    text-align: left;
+    margin-left: 300px;
+}
+.body{
     max-width: 1000px;
     text-align: left;
     margin-left: 300px;

@@ -3,6 +3,7 @@ h1{
     text-align: center;
     width: auto;
     height: auto;
+    font-size: 50px;
 }
 body{
     background-color: #ffffff;
@@ -19,6 +20,7 @@ ul{
     color: white;
     background-color:none;
     overflow: hidden;
+    border-radius: 4px;
 }
 li{
     display: inline;
@@ -38,4 +40,10 @@ li a{
 }
 li a:hover{
     background-color:#111;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:550px;
 }
